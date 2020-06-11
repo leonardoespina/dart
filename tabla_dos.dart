@@ -22,7 +22,7 @@ void main(){
          String r1='$a x $i = $b    ';
          String r2=' $num x $i = $c  ';
          String r3=' $d x $i =$e';
-         print(' r1 + r2 + r3');
+         print(r1 + r2 + r3);
 
 
     }
